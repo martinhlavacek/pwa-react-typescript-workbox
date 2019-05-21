@@ -1,0 +1,21 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint-react-hooks",
+        "tslint-config-airbnb",
+        "tslint-react",
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "import-name": false,
+        "quotemark": [true, "single", "jsx-double"],
+        "max-len": [2, 160, 2],
+        "object-curly-spacing": [2, "always"],
+        "trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
+        "semicolon": [true, "always"],
+        "react-hooks-nesting": "error",
+        "jsx-wrap-multiline": false
+    },
+    "rulesDirectory": []
+}
