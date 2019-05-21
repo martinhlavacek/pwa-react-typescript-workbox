@@ -15,7 +15,10 @@
         "trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
         "semicolon": [true, "always"],
         "react-hooks-nesting": "error",
-        "jsx-wrap-multiline": false
+        "jsx-wrap-multiline": false,
+        "interface-name": [true, "never-prefix"],
+        "arrow-parens": false,
+        "ter-arrow-parens": [true, "as-needed"]
     },
     "rulesDirectory": []
 }
