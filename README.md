@@ -1,7 +1,7 @@
 # pwa-react-typescript-workbox
 _setup create react app with typescript without yarn eject_
 
-## packages
+## Packages
 * react-app-rewired
     
     ***Plugins***
