@@ -4,7 +4,8 @@
         "tslint-react-hooks",
         "tslint-config-airbnb",
         "tslint-react",
-        "tslint:recommended"
+        "tslint:recommended",
+        "tslint-config-prettier"
     ],
     "jsRules": {},
     "rules": {
